@@ -1,2 +1,7 @@
-streamlit
-sklearn
+streamlit==1.1.0
+Flask==1.1.1
+numpy>=1.9.2
+scipy>=0.15.1
+scikit-learn>=0.18
+matplotlib>=1.4.3
+pandas>=0.19
